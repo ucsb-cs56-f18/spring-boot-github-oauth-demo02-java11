@@ -3,7 +3,7 @@
 
 # Don't store keystore files
 *.jks
-
+*.p12
 localhost.json
 heroku.json
 secrets.json
